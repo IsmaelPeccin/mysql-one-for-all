@@ -135,8 +135,8 @@ VALUES
     ('I Ride Alone', 151, 9),
     ('Honey', 79, 10),
     ('You Cheated On Me', 95, 10),
-    ('Baby', 213, 10),
-    ('Wouldn\'t It Be Nice', 136, 10),
+    ('Wouldn\'t It Be Nice', 213, 10),
+    ('Baby', 136, 10),
     ('You Make Me Feel So..', 83, 10);
     
 INSERT INTO SpotifyClone.usuarios (usuario_id, usuario, idade, plano_id, data_assinatura)
